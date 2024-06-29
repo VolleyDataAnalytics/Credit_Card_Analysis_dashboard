@@ -9,6 +9,10 @@
 
 The revenue remained fairly stable across all quarters, with a slight dip in Q2. The transaction count saw a peak in Q2.
 
+
+![Uploading image.png…]()
+
+
 #### Revenue by Expenditure Type
 
 - **Highest Revenue**: Bills ($14M)
