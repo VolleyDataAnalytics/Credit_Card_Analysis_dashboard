@@ -10,7 +10,9 @@
 The revenue remained fairly stable across all quarters, with a slight dip in Q2. The transaction count saw a peak in Q2.
 
 
+
 ![image](https://github.com/VolleyDataAnalytics/Credit_Card_Analysis_dashboard/assets/120261965/90087b96-0a0a-49fc-90a1-cf7dce6ae13d)
+
 
 
 
@@ -18,8 +20,13 @@ The revenue remained fairly stable across all quarters, with a slight dip in Q2.
 
 - **Highest Revenue**: Bills ($14M)
 - **Other Categories**: Entertainment ($10M), Fuel ($10M), Grocery ($9M), Food ($8M), Travel ($6M)
-
 Bills generate the highest revenue, suggesting they are a significant portion of credit card usage.
+
+
+![image](https://github.com/VolleyDataAnalytics/Credit_Card_Analysis_dashboard/assets/120261965/387ee7e9-a14f-4ec6-b896-830b41da71b0)
+
+
+
 
 #### Revenue by Education Level
 
@@ -32,6 +39,12 @@ Bills generate the highest revenue, suggesting they are a significant portion of
 
 Graduates contribute the most to the revenue, indicating higher educational levels correlate with higher spending.
 
+
+![image](https://github.com/VolleyDataAnalytics/Credit_Card_Analysis_dashboard/assets/120261965/dc0f19b4-7d94-4831-a359-c70769adddd4)
+
+
+
+
 #### Revenue by Customer Job
 
 - **Businessman**: $18M
@@ -43,6 +56,12 @@ Graduates contribute the most to the revenue, indicating higher educational leve
 
 Businessmen and white-collar professionals are the top spenders.
 
+
+![image](https://github.com/VolleyDataAnalytics/Credit_Card_Analysis_dashboard/assets/120261965/1586b9ec-3a1e-4ed9-be56-8c15237c98ad)
+
+
+
+
 #### Customer Acquisition Cost
 
 - **Blue**: $47M
@@ -52,6 +71,12 @@ Businessmen and white-collar professionals are the top spenders.
 
 Blue category customers have the highest acquisition cost.
 
+
+![image](https://github.com/VolleyDataAnalytics/Credit_Card_Analysis_dashboard/assets/120261965/66a3137a-547e-4593-9bea-b26626c6e916)
+
+
+
+
 #### Revenue by Usage Type
 
 - **Swipe**: $36M
@@ -59,6 +84,11 @@ Blue category customers have the highest acquisition cost.
 - **Online**: $4M
 
 Swiping cards is the most common method of transaction, followed by chip usage and online transactions.
+
+
+![image](https://github.com/VolleyDataAnalytics/Credit_Card_Analysis_dashboard/assets/120261965/4b412003-3225-406f-bae6-5f0b3955c5ff)
+
+
 
 #### Card Category Breakdown
 
@@ -69,6 +99,12 @@ Swiping cards is the most common method of transaction, followed by chip usage a
 
 Blue card category generates the most revenue and interest.
 
+
+
+![image](https://github.com/VolleyDataAnalytics/Credit_Card_Analysis_dashboard/assets/120261965/51d9e460-f65e-4f1d-b44f-6f566d1ff01a)
+
+
+
 #### Revenue by Income Group
 
 - **High**: $23M
@@ -77,6 +113,11 @@ Blue card category generates the most revenue and interest.
 - **Unknown**: $8M
 
 Higher income groups contribute significantly more to the revenue.
+
+
+![image](https://github.com/VolleyDataAnalytics/Credit_Card_Analysis_dashboard/assets/120261965/a31631c0-47a2-4e2a-aef4-d3dab5720d48)
+
+
 
 #### Revenue by Age Group
 
@@ -88,6 +129,11 @@ Higher income groups contribute significantly more to the revenue.
 
 The 40-50 age group generates the highest revenue.
 
+
+![image](https://github.com/VolleyDataAnalytics/Credit_Card_Analysis_dashboard/assets/120261965/81bdc32e-8d08-481d-a3af-548540c46716)
+
+
+
 #### Revenue by Number of Dependents
 
 - **0 Dependents**: $2M
@@ -96,6 +142,13 @@ The 40-50 age group generates the highest revenue.
 - **6 Dependents**: $5M
 
 Customers with 2 dependents generate the highest revenue.
+
+
+
+![image](https://github.com/VolleyDataAnalytics/Credit_Card_Analysis_dashboard/assets/120261965/319df392-4a3d-4c30-86f7-ef4c9e9cf981)
+
+
+
 
 #### Top 5 States by Revenue
 
@@ -107,6 +160,12 @@ Customers with 2 dependents generate the highest revenue.
 
 These states are the top contributors to the credit card revenue.
 
+
+![image](https://github.com/VolleyDataAnalytics/Credit_Card_Analysis_dashboard/assets/120261965/4d469a9e-5d64-4a3f-b1d4-8e454dbfaa82)
+
+
+
+
 #### Revenue by Marital Status
 
 - **Unknown**: $11M
@@ -114,6 +173,11 @@ These states are the top contributors to the credit card revenue.
 - **Married**: $16M
 
 Married customers contribute the most to the revenue.
+
+
+![image](https://github.com/VolleyDataAnalytics/Credit_Card_Analysis_dashboard/assets/120261965/de2f4e7b-e645-4b7a-955b-cb18a72df46c)
+
+
 
 ### Recommendations
 
