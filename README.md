@@ -10,7 +10,8 @@
 The revenue remained fairly stable across all quarters, with a slight dip in Q2. The transaction count saw a peak in Q2.
 
 
-![Uploading image.png…]()
+![image](https://github.com/VolleyDataAnalytics/Credit_Card_Analysis_dashboard/assets/120261965/90087b96-0a0a-49fc-90a1-cf7dce6ae13d)
+
 
 
 #### Revenue by Expenditure Type
